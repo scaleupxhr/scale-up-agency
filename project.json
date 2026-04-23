@@ -1,0 +1,27 @@
+{
+  "overview": "Scale Up is a high-converting digital agency website built to generate leads and rank on Google. It features 5 fully responsive pages with Electric Blue branding on a deep black background, animated logo, sticky WhatsApp CTA, smooth scroll animations, and full SEO optimization targeting Kerala businesses.",
+  "features": [
+    "Animated Scale Up hero with electric blue glow effects",
+    "5 pages: Home, Services, Portfolio, About, Contact",
+    "Sticky WhatsApp floating button on all pages",
+    "Home page with metrics counters, process steps, testimonials carousel",
+    "Services page with detailed benefits and CTAs per service",
+    "Portfolio with before/after project showcases",
+    "SEO meta tags, H1/H2 hierarchy, schema markup for Kerala keywords",
+    "Mobile-first responsive with Poppins/Inter typography",
+    "Smooth scroll fade-in animations using Motion library",
+    "Contact form with WhatsApp primary CTA"
+  ],
+  "category": "business",
+  "tags": [
+    "digital-agency",
+    "business-website",
+    "lead-generation",
+    "whatsapp-cta",
+    "seo",
+    "kerala",
+    "landing-page",
+    "portfolio"
+  ],
+  "last_updated": "2026-04-23T07:20:17.951Z"
+}
